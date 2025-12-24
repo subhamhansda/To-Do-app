@@ -1,0 +1,16 @@
+
+button{
+    font-weight:bold;
+    border:2px solid black;
+    /* margin:2px; */
+
+}
+.tick{
+    border:2px solid blue;
+}
+::placeholder{
+    color:blue;
+}
+input:active{
+ border:2px solid blue;
+}
